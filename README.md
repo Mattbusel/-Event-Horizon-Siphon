@@ -8,7 +8,7 @@ A theoretical framework for a compact energy engine that utilizes a controlled b
 
 ## 🖼️ Concept Image
 
-![Event Horizon Siphon Core](https://raw.githubusercontent.com/Mattbusel/Event-Horizon-Siphon/main/ChatGPT_Image_Apr_29_2025_06_58_54_AM.png)
+![Event Horizon Siphon Core](https://raw.githubusercontent.com/Mattbusel/Event-Horizon-Siphon/ChatGPT_Image_Apr_29_2025_06_58_54_AM.png)
 
 
 
