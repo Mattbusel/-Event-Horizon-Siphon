@@ -6,7 +6,10 @@ A theoretical framework for a compact energy engine that utilizes a controlled b
 ---
 ## 🖼️ Concept Image
 
-![Black Hole Core Engine](assets/ChatGPT Image Apr 29, 2025, 06_58_54 AM.png)
+## 🖼️ Concept Image
+
+![Event Horizon Siphon Core](assets/ChatGPT_Image_Apr_29_2025_06_58_54_AM.png)
+
 
 
 ## ⚙️ System Concept
