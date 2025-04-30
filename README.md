@@ -6,7 +6,7 @@ A theoretical framework for a compact energy engine that utilizes a controlled b
 ---
 ## 🖼️ Concept Image
 
-![Black Hole Core Engine](assets/blackhole_core.png)
+![Black Hole Core Engine](assets/ChatGPT Image Apr 29, 2025, 06_58_54 AM.png)
 
 
 ## ⚙️ System Concept
