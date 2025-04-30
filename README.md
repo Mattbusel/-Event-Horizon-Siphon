@@ -4,6 +4,10 @@
 A theoretical framework for a compact energy engine that utilizes a controlled black hole-neutron star interaction to harvest extreme energy from the transitional, high-inertia state of matter prior to event horizon crossing. This design captures energy radiated or extracted from neutron star matter as it undergoes relativistic acceleration and tidal disruption near a microscopic black hole.
 
 ---
+## 🖼️ Concept Image
+
+![Black Hole Core Engine](assets/blackhole_core.png)
+
 
 ## ⚙️ System Concept
 - **Black Hole**: Artificially stabilized, Schwarzschild radius ~1–2 cm (≈ Earth mass).
