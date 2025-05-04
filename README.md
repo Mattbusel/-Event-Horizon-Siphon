@@ -109,5 +109,4 @@ Imagine a bridge that is **unmovable** and **unbreakable**, even across spacetim
 
 ---
 
-##  License
-Speculative physics concept. Use under creative commons or GPL if adapted into science fiction, simulation, or visualization tools.
+
