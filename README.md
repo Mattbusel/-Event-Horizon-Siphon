@@ -19,6 +19,9 @@
 
 The **Event Horizon Siphon** is a theoretical framework for a compact, ultra-dense energy engine that harvests relativistic and quantum energy outputs generated in the moments **prior to matter crossing a black hole's event horizon**. This engine leverages a controlled interaction between a miniature black hole and neutron star matter to extract otherwise unreachable energy states via precision-engineered spacetime and material systems.
 
+- [Graphic 1: Containment Chamber Design](./Graphic%201.png)
+- [Graphic 2: Energy Flow / Siphon Mechanism](./Graphic%202.png)
+
 ---
 
 ##  System Concept
