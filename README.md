@@ -79,7 +79,9 @@ The **Event Horizon Siphon** is a theoretical framework for a compact, ultra-den
 
 ---
 
-##  Inertial-Neutral Containment Material (INCM)
+##  Inertial-Neutral Containment Material (INCM) 
+
+- [INCM Theoretical Concept (PDF)](./INCM_Theoretical_Concept.pdf)
 
 ### Definition
 
